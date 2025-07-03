@@ -12,6 +12,7 @@ The program use the data.txt as entry point. It needs to contain a formated text
 
 Ex :
 
+```
 ....\n
 .##.\n
 .##.\n
@@ -37,7 +38,7 @@ Ex :
 .##.\n
 .#..\n
 \n
-
+```
 It will print in the terminal the square with uppercase letters to identify each tetrominos and '.' to represent the empty spaces.
 
 ### Algorithm Details
