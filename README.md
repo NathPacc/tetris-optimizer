@@ -9,7 +9,7 @@ Nathan PACCOUD - Program created during my formation in Zone01 Rouen.
 ### How to use 
 
 Type a simple "go run ." or "go run main.go" in a terminal (opened in the file).
-The program use the data.txt as entry point. It needs to contain a formated text file of 4X4 squares where '.' represents an empty space and '#' represent a part of the tetromino, and each square muste be separated by a empty line. The file must end with an empty line.
+The program use the data.txt file as entry point. It needs to contain a formated text file of 4X4 squares where '.' represents an empty space and '#' represent a part of the tetromino, and each square muste be separated by a empty line. The file must end with an empty line.
 
 Ex :
 
